@@ -1,5 +1,5 @@
 - Hi, I’m @javediahmed, economist/applied scientist. 
-- 📫 How to reach me: javed.ahmed@outlook.com, linkedin.com/in/javediahmed
+- 📫 How to reach me: javed@aicanalytics.com, linkedin.com/in/javediahmed
 
 <!---
 javediahmed/javediahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
