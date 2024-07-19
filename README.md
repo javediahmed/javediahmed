@@ -1,5 +1,5 @@
 - Hi, I’m @javediahmed, applied scientist. 
-- 📫 How to reach me: javed@aicanalytics.com
+- 📫 How to reach me: javed.ahmed@outlook.com
  
 <!---
 javediahmed/javediahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
