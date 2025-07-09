@@ -1,4 +1,4 @@
-- Applied scientist. 
+- Applied scientist
 - 📫 How to reach me: javed.ahmed@outlook.com
  
 <!---
