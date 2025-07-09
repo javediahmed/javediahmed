@@ -1,4 +1,4 @@
-- Hi, I’m @javediahmed, applied scientist. 
+- Applied scientist. 
 - 📫 How to reach me: javed.ahmed@outlook.com
  
 <!---
